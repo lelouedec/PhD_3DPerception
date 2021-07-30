@@ -14,3 +14,12 @@ journal={UKRAS20 Conference: “Robots into the real world” Proceedings},
 author={Louedec, Justin Le and Cielniak, Grzegorz}, 
 year={2020}}
 ```
+
+## Computers and electronics in agriculture : 3D shape sensing and deep learning-based segmentation ofstrawberries
+
+Code for the submission to Computers and electronics in agriculture. You will find CNN3D model, and the training + testing files and an example of dataset loading class for the simulated data. 
+You can find the code for PointNet on my other repository : https://github.com/lelouedec/3DNetworksPytorch
+For SegNet you can find a pytorch model here : https://github.com/trypag/pytorch-unet-segnet
+
+
+

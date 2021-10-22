@@ -21,5 +21,6 @@ Code for the submission to Computers and electronics in agriculture. You will fi
 You can find the code for PointNet on my other repository : https://github.com/lelouedec/3DNetworksPytorch
 For SegNet you can find a pytorch model here : https://github.com/trypag/pytorch-unet-segnet
 
+## BMVC 2021 : Gaussian map predictions for 3D surfacefeature localisation and counting
 
-
+In the BMVC2021 folder, you will in due time the code for the main parts of the paper published and presented this year at BMVC 2021.

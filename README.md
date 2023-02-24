@@ -21,6 +21,20 @@ Code for the submission to Computers and electronics in agriculture. You will fi
 You can find the code for PointNet on my other repository : https://github.com/lelouedec/3DNetworksPytorch
 For SegNet you can find a pytorch model here : https://github.com/trypag/pytorch-unet-segnet
 
+If you are interested by this work please contact me by email (see profile) for any colaboration, and if the paper inspires you please cite it:
+```bib
+@article{le20213d,
+  title={3D shape sensing and deep learning-based segmentation of strawberries},
+  author={Le Lou{\"e}dec, Justin and Cielniak, Grzegorz},
+  journal={Computers and Electronics in Agriculture},
+  volume={190},
+  pages={106374},
+  year={2021},
+  publisher={Elsevier}
+}
+```
+
+
 ## BMVC 2021 : Gaussian map predictions for 3D surfacefeature localisation and counting
 
 In the BMVC2021 folder, you will in due time the code for the main parts of the paper published and presented this year at BMVC 2021.

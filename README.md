@@ -1,6 +1,6 @@
 # PhD_3DPerception
 
-![summary image](ims/PhD_Block_overview_horizontal.png "Summary")
+![summary image](imgs/PhD_Block_overview_horizontal.png "Summary")
 
 Repository aimed at compiling code, papers, demos etc.. related to my PhD on 3D vision and machine learning for fruit detection and shape estimation at the university of Lincoln
 

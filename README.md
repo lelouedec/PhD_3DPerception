@@ -35,6 +35,25 @@ If you are interested by this work please contact me by email (see profile) for 
 ```
 
 
-## BMVC 2021 : Gaussian map predictions for 3D surfacefeature localisation and counting
+## BMVC 2021 : Gaussian map predictions for 3D surface feature localisation and counting
 
 In the BMVC2021 folder, you will in due time the code for the main parts of the paper published and presented this year at BMVC 2021.
+
+If you are interested by this work please contact me by email (see profile) for any colaboration, and if the paper inspires you please cite it:
+```bib
+@inproceedings{DBLP:conf/bmvc/LouedecC21,
+  author    = {Justin Le Lou{\"{e}}dec and
+               Grzegorz Cielniak},
+  title     = {Gaussian map predictions for 3D surface feature localisation and counting},
+  booktitle = {32nd British Machine Vision Conference 2021, {BMVC} 2021, Online,
+               November 22-25, 2021},
+  pages     = {423},
+  publisher = {{BMVA} Press},
+  year      = {2021},
+  url       = {https://www.bmvc2021-virtualconference.com/assets/papers/1417.pdf},
+  timestamp = {Wed, 22 Jun 2022 16:52:45 +0200},
+  biburl    = {https://dblp.org/rec/conf/bmvc/LouedecC21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+

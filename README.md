@@ -11,7 +11,7 @@ If you are interested by this work please contact me by email (see profile) for 
 title={Determining shape of strawberry crops with spherical harmonics}, 
 DOI={10.31256/mc8hl1a}, 
 journal={UKRAS20 Conference: “Robots into the real world” Proceedings}, 
-author={Louedec, Justin Le and Cielniak, Grzegorz}, 
+author={Le Louëdec, Justin and Cielniak, Grzegorz}, 
 year={2020}}
 ```
 
@@ -25,7 +25,7 @@ If you are interested by this work please contact me by email (see profile) for 
 ```bib
 @article{le20213d,
   title={3D shape sensing and deep learning-based segmentation of strawberries},
-  author={Le Lou{\"e}dec, Justin and Cielniak, Grzegorz},
+  author={Le Louëdec, Justin and Cielniak, Grzegorz},
   journal={Computers and Electronics in Agriculture},
   volume={190},
   pages={106374},
@@ -42,7 +42,7 @@ In the BMVC2021 folder, you will in due time the code for the main parts of the 
 If you are interested by this work please contact me by email (see profile) for any colaboration, and if the paper inspires you please cite it:
 ```bib
 @inproceedings{DBLP:conf/bmvc/LouedecC21,
-  author    = {Justin Le Lou{\"{e}}dec and
+  author    = {Justin Le Louëdec and
                Grzegorz Cielniak},
   title     = {Gaussian map predictions for 3D surface feature localisation and counting},
   booktitle = {32nd British Machine Vision Conference 2021, {BMVC} 2021, Online,

@@ -1,4 +1,4 @@
-# PhD_3DPerception
+# Automated 3D traits measurement for strawberries
 
 ![summary image](imgs/PhD_Block_overview_horizontal.png "Summary")
 

@@ -27,7 +27,7 @@ Code for the submission to Computers and electronics in agriculture. You will fi
 You can find the code for PointNet on my other repository : https://github.com/lelouedec/3DNetworksPytorch
 For SegNet you can find a pytorch model here : https://github.com/trypag/pytorch-unet-segnet
 
-If you are interested by this work please contact me by email (see profile) for any colaboration, and if the paper inspires you please cite it:
+If you are interested by this work please contact me by email (see profile) for any collaboration, and if the paper inspires you please cite it:
 ```bib
 @article{le20213d,
   title={3D shape sensing and deep learning-based segmentation of strawberries},
@@ -45,7 +45,7 @@ If you are interested by this work please contact me by email (see profile) for 
 
 We present our UKRAS 2020 paper in the folder called UKRAS. You can find there the PDF for the paper and some code presented as a jupyter notebook, to try and reproduce the paper. Following the jupyter notebok let you learn about how to open and process the point cloud, compute forward spherical harmonics transform, reconstruct and plot the obtained coefficients.
 
-If you are interested by this work please contact me by email (see profile) for any colaboration, and if the paper inspires you please cite it:
+If you are interested by this work please contact me by email (see profile) for any collaboration, and if the paper inspires you please cite it:
 ```bib
 @article{louedec_cielniak_2020, 
 title={Determining shape of strawberry crops with spherical harmonics}, 
@@ -68,9 +68,9 @@ Coming soon....
 
 ### BMVC 2021 : Gaussian map predictions for 3D surface feature localisation and counting
 
-In the BMVC2021 folder, you will in due time the code for the main parts of the paper published and presented this year at BMVC 2021.
+In the Achenes folder, you will in due time the code for the main parts of the paper published and presented this year at BMVC 2021.
 
-If you are interested by this work please contact me by email (see profile) for any colaboration, and if the paper inspires you please cite it:
+If you are interested by this work please contact me by email (see profile) for any collaboration, and if the paper inspires you please cite it:
 ```bib
 @inproceedings{DBLP:conf/bmvc/LouedecC21,
   author    = {Justin Le Louëdec and

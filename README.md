@@ -17,7 +17,7 @@ Repository aimed at compiling code, papers, demos etc.. related to my PhD on 3D 
 
 
 
-##3D Segmentation
+## 3D Segmentation
 
 ### Computers and electronics in agriculture : 3D shape sensing and deep learning-based segmentation ofstrawberries
 
@@ -37,7 +37,7 @@ If you are interested by this work please contact me by email (see profile) for 
   publisher={Elsevier}
 }
 ```
-##3D reconstruction and orientation prediction
+## 3D reconstruction and orientation prediction
 
 ### UKRAS : Determining shape of strawberry crops with spherical harmonics
 

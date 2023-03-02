@@ -5,23 +5,9 @@
 Repository aimed at compiling code, papers, demos etc.. related to my PhD on 3D vision and machine learning for fruit detection and shape estimation at the university of Lincoln
 
 
-## Datasets
-
-### Riseholme Farm pointclouds + simulation
-
-
-### 3D strawberries photogrammetry high-resolution models 
-
-
-### Achene annotations
-
-The achenes annotation for the data used in the achene counting paper can be found in this [file](https://drive.google.com/file/d/1rwVTc7_EE39_1Jx-FAq-b4V3N4XdU-fh/view?usp=sharing). For each point there is the file name (identical to mesh name), number of achenes and location. Original 3D dataset can be downloaded from [here](https://datadryad.org/stash/dataset/doi:10.25338/B8V308), and processed using the code in Achenes folder.
-
-
-
 ## 3D Segmentation
 
-### Computers and electronics in agriculture : 3D shape sensing and deep learning-based segmentation ofstrawberries
+### Computers and electronics in agriculture : 3D shape sensing and deep learning-based segmentation of strawberries
 
 Code for the submission to Computers and electronics in agriculture. You will find CNN3D model, and the training + testing files and an example of dataset loading class for the simulated data. 
 You can find the code for PointNet on my other repository : https://github.com/lelouedec/3DNetworksPytorch
@@ -57,11 +43,11 @@ year={2020}}
 
 ### Single image orientation prediction
 
-Coming soon....
+Coming soon with preprint
 
 ### Single image 3D reconstruction
 
-Coming soon....
+Coming soon with preprint
 
 
 ## Achene counting
@@ -87,4 +73,21 @@ If you are interested by this work please contact me by email (see profile) for 
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
+
+## Datasets
+
+### Riseholme Farm pointclouds + simulation
+
+Stereo and ToF Data introduced in the computer and electronics paper entitled "3D shape sensing and deep learning-based segmentation of strawberries", can be found in the following [archive](https://drive.google.com/file/d/1jjtf6JcuxZQbykpApIcyl5-grX4sRWxv/view?usp=sharing).
+
+### 3D strawberries photogrammetry high-resolution models 
+
+Coming soon with preprint
+
+### Achene annotations
+
+The achenes annotation for the data used in the achene counting paper can be found in this [file](https://drive.google.com/file/d/1rwVTc7_EE39_1Jx-FAq-b4V3N4XdU-fh/view?usp=sharing). For each point there is the file name (identical to mesh name), number of achenes and location. Original 3D dataset can be downloaded from [here](https://datadryad.org/stash/dataset/doi:10.25338/B8V308), and processed using the code in Achenes folder.
+
+
+
 
